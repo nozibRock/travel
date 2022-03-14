@@ -1,6 +1,6 @@
 # travel
 
-🔴Live site link: [click here](https://knowyourmobile.netlify.app/)
+🔴Live site link: [click here](https://nozibrock.github.io/travel/)
 
 ## Authors
 
